@@ -12,7 +12,7 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Learn <Link href="/posts/first-post">this page!</Link>
+          Learn <Link href="/about_me/first-post">this page!</Link>
         </h1>
 
         <p className={styles.description}>
